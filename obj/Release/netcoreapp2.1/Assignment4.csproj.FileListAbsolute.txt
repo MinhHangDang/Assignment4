@@ -41,3 +41,5 @@ C:\Users\dangm\source\repos\Assignment4\Assignment4\obj\Release\netcoreapp2.1\Ra
 C:\Users\dangm\source\repos\Assignment4\Assignment4\obj\Release\netcoreapp2.1\Razor\Pages\CodeShares\Details.cshtml.g.cs
 C:\Users\dangm\source\repos\Assignment4\Assignment4\obj\Release\netcoreapp2.1\Razor\Pages\CodeShares\Edit.cshtml.g.cs
 C:\Users\dangm\source\repos\Assignment4\Assignment4\obj\Release\netcoreapp2.1\Razor\Pages\CodeShares\Index.cshtml.g.cs
+C:\Users\dangm\source\repos\Assignment4\Assignment4\bin\Release\netcoreapp2.1\Properties\serviceDependencies.Assignment420200729214019 - Web Deploy.json
+C:\Users\dangm\source\repos\Assignment4\Assignment4\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
